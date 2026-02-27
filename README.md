@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 O **Money Track** é uma aplicação web orientada a objetos desenvolvida em Java utilizando Spring Boot.  
 O sistema tem como objetivo auxiliar no controle financeiro pessoal, permitindo o registro, organização e acompanhamento de receitas e despesas.
@@ -31,7 +31,7 @@ Fornecer uma ferramenta para:
 
 ---
 
-## 🧱 Estrutura do Sistema
+##  Estrutura do Sistema
 
 A aplicação é composta pelas seguintes entidades principais:
 
